@@ -1,6 +1,10 @@
 {
   "files.associations": {
     "*.overlay": "dts",
-    "*.keymap": "dts"
+    "*.keymap": "dts",
+    "types.h": "c",
+    "util.h": "c",
+    "init.h": "c",
+    "util_macro.h": "c"
   }
 }

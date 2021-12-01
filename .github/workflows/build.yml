@@ -61,6 +61,9 @@ jobs:
           - splitreus62_right
           - tg4x
           - tidbit
+          - scuffproto_scuffdox90_pad
+          - scuffproto_scuffdox90_left
+          - scuffproto_scuffdox90_right
         cmake-args: [""]
         include:
           - board: bdn9_rev2
